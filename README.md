@@ -16,9 +16,9 @@ Eclipse IDE: Development environment of choice.
 GitHub Repository: The project is version-controlled and hosted on GitHub.
 
 Installation
-Clone this repository: git clone [repository link].
+Clone this repository: git clone .
 Set up your development environment with Eclipse IDE.
-Configure Apache Tomcat 9 as your application server.
+Configure Apache Tomcat 10.1 as your application server.
 Import the project into Eclipse.
 Set up the MySQL database using MySQL Workbench.
 Ensure all dependencies, including Spring and Hibernate, are correctly configured.
